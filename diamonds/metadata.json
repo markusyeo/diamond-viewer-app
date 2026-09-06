@@ -1,0 +1,120 @@
+{
+  "diamonds": [
+    {
+      "id": "d1",
+      "reportNumber": "LG822610026",
+      "carat": 1.05,
+      "color": "D",
+      "clarity": "VVS2",
+      "shape": "Old European Cut",
+      "measurements": "6.36 - 6.38 x 3.95 mm",
+      "avgDiameterMm": 6.37,
+      "depthMm": 3.95,
+      "depthPct": 62.1,
+      "tablePct": 53,
+      "crownPct": 20,
+      "crownAngleDeg": 40.1,
+      "pavilionPct": 38,
+      "pavilionAngleDeg": 39.1,
+      "angleSumDeg": 79.2,
+      "girdle": "Medium To Slightly Thick (Faceted)",
+      "culet": "Large",
+      "polish": "EXCELLENT",
+      "symmetry": "EXCELLENT",
+      "fluorescence": "NONE",
+      "growth": "CVD, Type IIa",
+      "stillUrl": "https://d24ppbhzdyfrur.cloudfront.net/uploads/image_url/s3_image/736976278/still_dd297281-65f8-4970-9789-caf6e3997e1a.jpg",
+      "scaleFactor": 1,
+      "rank": 2,
+      "rankTitle": "The Purist Vintage Archetype",
+      "goods": [
+        "Authentic 20.0% crown height with steep 40.1° angle creating dramatic pillowy dome.",
+        "Razor-sharp 8-petal radial symmetry under 53% table.",
+        "Complementary 40.1° crown + 39.1° pavilion prevents head shadow extinction.",
+        "Prominent octagonal open culet with bright Kozibe inner reflections.",
+        "Tightest out-of-round tolerance (0.02 mm variance, 1.003 ratio)."
+      ],
+      "bads": [
+        "Smallest face-up spread of the three (6.37 mm average diameter).",
+        "Pavilion profile slightly flat (38.0%) relative to tall crown."
+      ]
+    },
+    {
+      "id": "d2",
+      "reportNumber": "LG811692198",
+      "carat": 1.07,
+      "color": "D",
+      "clarity": "VVS2",
+      "shape": "Old European Cut",
+      "measurements": "6.42 - 6.45 x 4.04 mm",
+      "avgDiameterMm": 6.435,
+      "depthMm": 4.04,
+      "depthPct": 62.7,
+      "tablePct": 53,
+      "crownPct": 18.5,
+      "crownAngleDeg": 38.1,
+      "pavilionPct": 40,
+      "pavilionAngleDeg": 39.7,
+      "angleSumDeg": 77.8,
+      "girdle": "Medium To Slightly Thick (Faceted)",
+      "culet": "Large (Visually Tight)",
+      "polish": "EXCELLENT",
+      "symmetry": "EXCELLENT",
+      "fluorescence": "NONE",
+      "growth": "CVD, Type IIa",
+      "stillUrl": "https://d24ppbhzdyfrur.cloudfront.net/uploads/image_url/s3_image/709358644/still_b2ddf4bf-5944-444e-ba7e-26fec458ac89.jpg",
+      "scaleFactor": 1.0102,
+      "rank": 3,
+      "rankTitle": "Solid Stone, Less Pronounced OEC Soul",
+      "goods": [
+        "Authentic 53% small table.",
+        "Good 6.435 mm face-up spread (larger than D1).",
+        "Pristine D/VVS2 ice-white CVD Type IIa crystal."
+      ],
+      "bads": [
+        "Heaviest depth (62.7%) with 40.0% pavilion trapping weight vertically.",
+        "Flattest crown of the trio (18.5% / 38.1°), leaning toward Transitional Cut.",
+        "Culet aperture appears noticeably tighter in video, muting open-culet Kozibe effect.",
+        "Lower angle sum (77.8°) yields slightly darker central response under direct tilt."
+      ]
+    },
+    {
+      "id": "d3",
+      "reportNumber": "LG795632770",
+      "carat": 1.07,
+      "color": "D",
+      "clarity": "VVS2",
+      "shape": "Old European Cut",
+      "measurements": "6.42 - 6.47 x 3.94 mm",
+      "avgDiameterMm": 6.445,
+      "depthMm": 3.94,
+      "depthPct": 61.1,
+      "tablePct": 53,
+      "crownPct": 19,
+      "crownAngleDeg": 39,
+      "pavilionPct": 39,
+      "pavilionAngleDeg": 40.1,
+      "angleSumDeg": 79.1,
+      "girdle": "Medium To Slightly Thick (Faceted)",
+      "culet": "Large",
+      "polish": "EXCELLENT",
+      "symmetry": "EXCELLENT",
+      "fluorescence": "NONE",
+      "growth": "CVD, Type IIa",
+      "stillUrl": "https://d24ppbhzdyfrur.cloudfront.net/uploads/image_url/s3_image/727292976/still_3026c2e3-5f6c-4d93-9158-fe9f04790a96.jpg",
+      "scaleFactor": 1.0118,
+      "rank": 1,
+      "rankTitle": "Connoisseur Pick (Best Spread & Light Performance)",
+      "goods": [
+        "Best face-up spread: 6.445 mm average diameter (faces up like 1.12 ct modern round).",
+        "Optimal 61.1% total depth with generous 19.0% crown height.",
+        "Ideal 39.0° crown / 40.1° pavilion optical pairing (79.1° sum) for bold chunky fire.",
+        "Charming, crisp open octagonal culet with dramatic Kozibe reflections.",
+        "Exceptional contrast: zero central extinction, lively on/off facet pattern."
+      ],
+      "bads": [
+        "Slight out-of-round variance: 6.42 x 6.47 mm (0.05 mm delta, 1.008 ratio, very typical for antique hand-cuts)."
+      ]
+    }
+  ]
+}
